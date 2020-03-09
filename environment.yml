@@ -1,0 +1,22 @@
+name: smile
+channels:
+- conda-forge
+dependencies:
+- jupyter>=1.0
+- jupyterlab>=1.2
+- matplotlib=3.1.*
+- numpy=1.17.*
+- pandas=0.25.*
+- python=3.7.*
+- pytz>=2019.*
+- nb_conda>=2.2
+- nb_conda_kernels>=2.2
+- scikit-learn=0.21.*
+- pytables=3.6.*
+- xlrd=1.2.*
+- keras=2.3.*
+- pip
+- pip:
+  - black
+  - mlflow
+  - jupyter_contrib_nbextensions
