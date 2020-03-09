@@ -1,7 +1,7 @@
 Smile Detection 🙂 😐
 ==============================
 
-A Computer Vision Project for the course of EBC6300A Affective and Persuasive Computing (Winter 2019).
+A Computer Vision Project for the course of EBC6300 Affective and Persuasive Computing (Winter 2019).
 
 What is affective computing?
 
