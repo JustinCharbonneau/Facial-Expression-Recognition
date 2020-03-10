@@ -14,7 +14,9 @@ dependencies:
 - scikit-learn=0.21.*
 - pytables=3.6.*
 - xlrd=1.2.*
-- keras=2.3.*
+- tensorflow-gpu=2.1.*
+- keras-gpu=2.3.*
+- pillow=7.0.*
 - pip
 - pip:
   - black
