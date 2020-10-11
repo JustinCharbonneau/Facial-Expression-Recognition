@@ -1,4 +1,4 @@
-name: smile
+name: nosmile
 channels:
 - conda-forge
 dependencies:
@@ -21,4 +21,7 @@ dependencies:
 - pip:
   - black
   - mlflow
+  - fastai==2.0.13
+  - voila
+  - ipyvolume
   - jupyter_contrib_nbextensions
