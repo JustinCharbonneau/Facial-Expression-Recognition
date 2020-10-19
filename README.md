@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JustinCharbonneau/Smile-Detection/master?urlpath=%2Fvoila%2Frender%2Fclassification-dash.ipynb)
 
 
-Smile Detection 🙂 😐
+Facial Expression Recognition 🙂 😐
 ==============================
 
 A Computer Vision Project for the course of EBC6300 Affective and Persuasive Computing (Winter 2019).
